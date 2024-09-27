@@ -7,7 +7,7 @@ public class App {
             // Tulostaa jos alaikäinen
             System.out.println("Olet alaikäinen");
             if (ika >= 15){
-                System.out.println("Saat ajaa mopoa");
+                System.out.println("Saat ajaa mopoa"); //tulostaa jos on yli 15
             }
             if (ika == 16 || ika == 17){
                 System.out.println("Saat ajaa kevarilla");
