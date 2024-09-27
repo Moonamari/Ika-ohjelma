@@ -16,7 +16,7 @@ public class App {
         }
         else if (ika >= 65)
         {
-            System.out.println("Olet eläkeläinen");
+            System.out.println("Olet eläkeläinen"); // Tulostaa tämän tekstin jos olet yli 65
     }
     else if (ika == 10 ||ika == 20 ||ika == 30 ||ika == 40){
         System.out.println("Paljon onnea tasavuosikymmenistä!!");
